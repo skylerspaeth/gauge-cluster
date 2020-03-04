@@ -1,0 +1,19 @@
+{
+  "name": "gauge-cluster",
+  "version": "1.0.0",
+  "description": "Modular and scaleable automotive gauge cluster for use on any ES6 client",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylerspaeth/gauge-cluster.git"
+  },
+  "author": "Skyler Spaeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skylerspaeth/gauge-cluster/issues"
+  },
+  "homepage": "https://github.com/skylerspaeth/gauge-cluster#readme"
+}
